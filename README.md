@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello World!, I'm Debangan/Primus, an AI Software Developer 👋🏼:
 🔭CSE undergrad student from Kolkata, India. <br>🚀Love to Play Sports, Gym, interact, socialize, sing songs <br>🚗& vibe around on a Car for a long drive. <br>💼Passionate about AIML, DL, CV, NLP & Fine-tuning NLPs.<br>🏢Dream FAANG companies specially Google, Microsoft or Nvidia.
 
 # 💻 Tech Stack:
@@ -7,7 +7,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debanganghosh08/debanganghosh08/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debanganghosh08/debanganghosh08/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/debanganghosh08/debanganghosh08/output/github-snake.svg" />
 </picture>
 
 ## 🌐 Socials:
