@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="Banner - Pro edit.png" alt="GitHub Banner" width="100%" />
 # Hello World!, I'm Debangan/Primus, an AI Software Developer 👋🏼:
 🔭CSE undergrad student from Kolkata, India. <br>🚀Love to Play Sports, Gym, interact, socialize, sing songs <br>🚗& vibe around on a Car for a long drive. <br>💼Passionate about AIML, DL, CV, NLP & Fine-tuning NLPs.<br>🏢Dream FAANG companies specially Google, Microsoft or Nvidia.
 
