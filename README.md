@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/debangan-ghosh/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/primus.lifts/">
+  <a href="https://www.instagram.com/devxprime/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="mailto:primusvlog@gmail.com">
