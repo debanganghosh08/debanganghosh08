@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 <h2>Basic info:</h2>
-💻 CSE - Data Science/ML <br> 📍 Kolkata / Durgapur / Vijaywada, India <br>📫Feel free to reach out! Social Media Handles given below. <br> Love to Play Sports, Gym, Socialize, Long Drive
+💻 CSE - Data Science/ML <br> 📍 Bangalore, India <br>📫Feel free to reach out! Social Media Handles given below. <br> Love to Play Sports, Gym, Socialize, Long Drive
 
 # 💻 Tech Stack:
 <p align="center">
