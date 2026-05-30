@@ -1,7 +1,7 @@
 <img src="Banner - Pro edit.png" alt="GitHub Banner" width="100%"/>
 
 <div align="center">
-    <h2> ML Engineer | Open Source | DSA </h2>
+    <h2> Data Science | ML Engineer | Open Source | DSA </h2>
 </div>
 <div align="center">
 <h2>Basic info:</h2>
