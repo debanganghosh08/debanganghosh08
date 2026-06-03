@@ -4,7 +4,7 @@
     <h2> Data Science | ML Engineer | Open Source | DSA </h2>
 </div>
 <div align="center">
-<h2>Basic info:</h2>
+<h2>About Me:</h2>
 💻 CSE - Data Science/ML <br> 📍 Bangalore, India <br>📫Feel free to reach out! Social Media Handles given below. <br> Love to Play Sports, Gym, Socialize, Long Drive
 
 # 💻 Tech Stack:
