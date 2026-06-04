@@ -1,10 +1,12 @@
+<h1 align='center'>✨ KAGGLE CODE EXPERT | GOOGLE DEEPMIND CONTRIBUTOR ✨</h1>
 <img src="Banner - Pro edit.png" alt="GitHub Banner" width="100%"/>
 
 <div align="center">
-    <h2> Data Science | ML Engineer | Open Source | DSA </h2>
+    <h2>📫 Open to Full Time Opportunities </h2>
+    <h3> Data Scientist | ML Engineer </h3>
 </div>
 <div align="center">
-<h2>About Me:</h2>
+<h3>About Me:</h3>
 💻 CSE - Data Science/ML <br> 📍 Bangalore, India <br>📫Feel free to reach out! Social Media Handles given below. <br> Love to Play Sports, Gym, Socialize, Long Drive
 
 # 💻 Tech Stack:
