@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  🚀 <b>Open to Early Career Software Engineering Roles</b> | 📍 Bangalore, India
+  🚀 <b>Open to Software Engineering and AI Engineering Roles</b> | 📍 Bangalore, India
 </div>
 
 ---
