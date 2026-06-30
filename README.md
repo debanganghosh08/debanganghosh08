@@ -1,5 +1,5 @@
-<h1 align='center'>✨ DEBANGAN GHOSH | SOFTWARE ENGINEER ✨</h1>
-<p align='center'><b>Google DeepMind Contributor & Kaggle Code Expert specializing in high-concurrency backend pipelines and low-latency systems.</b></p>
+<h1 align="center">✨ DEBANGAN GHOSH ✨</h1>
+<p align="center"><b>Backend AI Engineer @ Spark Labs | Associate Software Developer @ VEmpire Venture | Google DeepMind Contributor</b></p>
 
 <div align="center">
   <img src="Banner - Pro edit.png" alt="GitHub Banner" width="100%"/>
@@ -8,24 +8,39 @@
 <br>
 
 <div align="center">
-  🚀 <b>Open to Software Engineering and AI Engineering Roles</b> | 📍 Bangalore, India
+  🚀 <b>I help students and engineers accelerate career growth using AI, software engineering, and better execution systems.</b>
+  <br>
+  💡 Content Creation focus: <i>AI-powered Software Engineering + Career Growth</i> | 📍 Bangalore, India
 </div>
 
 ---
 
-### 🛠️ Core Technical Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,gcp,cpp,git,docker,fastapi,github,ai,mongodb,mysql,nextjs,nodejs,postman,pytorch,tensorflow,ubuntu,vercel" />
-  </a>
-</p>
+### 💼 Professional Timeline & Internship Tracking
 
-### 🧠 Featured Engineering Work
+| Organization | Role | Focus Stack | Key Impact Generated |
+| :--- | :--- | :--- | :--- |
+| **Sparq Labs** | Backend AI Engineer | Python, FastAPI, AWS, RAG | Architecting microservices, fine-tuning LLMs, and mitigating data leakage. |
+| **VEmpower Venture** | Associate Software Developer | React.js, Node.js, DynamoDB | Building high-concurrency dashboards with secure Cognito authentication. |
+| **Google DeepMind** | Open-Source Contributor | JAX Privacy, Python, XLA | Hardened differential privacy math and fixed compiler bottlenecks. |
+| **PlayTo** | Backend & AI Intern | FastAPI, Flask, Docker, SQL | Deployed inference endpoints and slashed backend latency by 30%. |
 
-* **Google DeepMind (Open Source Contribution):** Optimized memory allocation paths in distributed Python environments, cutting runtime memory overhead by 12%.
-* **Enterprise Orchestration Platform:** Engineered a high-throughput, non-blocking ingestion engine using native multithreading and asynchronous PostgreSQL.
+---
 
-<br>
+### 🧠 Featured Production Repositories
+
+* 🏥 **[intelligent_healthcare_assistant](https://github.com/debanganghosh08/intelligent_healthcare_assistant)**
+  * *Production-grade clinical symptom triage screening API built with FastAPI and LangGraph.*
+  * Implements a **Rule-First Hybrid Engine** that uses local NLP to bypass LLM calls for standard cases, routing complex inquiries to a local FAISS vector store with automated Redis caching layers.
+* 🛍️ **[ecommerce_support_resolution_agent](https://github.com/debanganghosh08/ecommerce_support_resolution_agent)**
+  * *A multi-agent production RAG pipeline built using the CrewAI framework.*
+  * Features a linear 4-agent hierarchy equipped with a dedicated Compliance Officer agent acting as a hallucination firewall against a persistent Singleton ChromaDB store.
+* 🤖 **[Mini_Agent_Orchestrator](https://github.com/debanganghosh08/Mini_Agent_Orchestrator)**
+  * *Event-driven agentic workflow engine utilizing asynchronous FastAPI gateways.*
+  * Maps natural language strings directly to secure function pointers without unsafe execution functions, enforcing strict circuit-breaker logic across tools.
+
+---
+
+### 📊 System Execution Metrics & Stats
 
 <table width="100%">
   <tr>
@@ -42,6 +57,38 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 🏅 Verified Technical Credentials & Badges
+
+<table align="center">
+  <tr>
+    <td align="center"><b>LeetCode Proficiency</b></td>
+    <td align="center"><b>Kaggle Specializations</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/LeetCode-500%2B--Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Solved"/><br>
+      <img src="https://img.shields.io/badge/Badge-50--Days--Streak-0078D4?style=flat&logo=leetcode" alt="LeetCode Badge 1"/><br>
+      <img src="https://img.shields.io/badge/Badge-Knight--Target-Advanced?style=flat&logo=leetcode" alt="LeetCode Badge 2"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Kaggle-Code--Expert--Rank--987-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Rank"/><br>
+      <img src="https://img.shields.io/badge/Certificates-11--Modules--Complete-success?style=flat&logo=kaggle" alt="Kaggle Certificates"/><br>
+      <img src="https://img.shields.io/badge/NPTEL-Data--Analytics-orange?style=flat" alt="NPTEL Certification"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Core Technical Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,aws,cpp,py,ts,js,react,nextjs,nodejs,express,mongodb,mysql,docker,fastapi,git,github,ubuntu,vercel" />
+  </a>
+</p>
 
 ### 🤝 Connect With Me
 <p align="center">
