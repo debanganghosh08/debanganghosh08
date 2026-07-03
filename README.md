@@ -23,6 +23,7 @@
 | **VEmpower Venture** | Associate Software Developer | React.js, Node.js, DynamoDB | Building high-concurrency dashboards with secure Cognito authentication. |
 | **Google DeepMind** | Open-Source Contributor | JAX Privacy, Python, XLA | Hardened differential privacy math and fixed compiler bottlenecks. |
 | **PlayTo** | Backend & AI Intern | FastAPI, Flask, Docker, SQL | Deployed inference endpoints and slashed backend latency by 30%. |
+| **Adzzat** | Core Developer AI | LLM Tuning & Response, RLHF, Python | Project Olympus & Mars - Debugging complex client codebases and resolving hidden security & performance issues |
 
 ---
 
