@@ -40,23 +40,88 @@
 
 ---
 
-### 📊 System Execution Metrics & Stats
+<h3 align="center">Badges & Achievements</h3>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=debanganghosh08&theme=neon&hide_border=false&include_all_commits=true&count_private=false" width="100%"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debanganghosh08&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=debanganghosh08&theme=neon&hide_border=false" width="100%"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0">
+    <tr>
+      <!-- LeetCode Badge 1 -->
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/leetcodebadges/1.gif" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/leetcodebadges/100.gif" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/leetcodebadges/2.gif" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/leetcodebadges/200.gif" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/leetcodebadges/202506.gif" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/leetcodebadges/202507.gif" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/leetcodebadges/202509.gif" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/leetcodebadges/202510.gif" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/leetcodebadges/202511.gif" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/leetcodebadges/202512.gif" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/leetcodebadges/25100.gif" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/leetcodebadges/2550.gif" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/leetcodebadges/50%20(1).gif" width="120" alt="Feb Badge">
+      </td>
+      <!-- Kaggle Certificate / Badge -->
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/kagglecertificates/Debangan%20Ghosh%20-%20Advanced%20SQL.png" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/kagglecertificates/Debangan%20Ghosh%20-%20Data%20Cleaning.png" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/kagglecertificates/Debangan%20Ghosh%20-%20Data%20Visualization.png" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/kagglecertificates/Debangan%20Ghosh%20-%20Feature%20Engineering.png" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/kagglecertificates/Debangan%20Ghosh%20-%20Intermediate%20Machine%20Learning.png" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/kagglecertificates/Debangan%20Ghosh%20-%20Intro%20to%20AI%20Ethics.png" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/kagglecertificates/Debangan%20Ghosh%20-%20Intro%20to%20Deep%20Learning.png" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/kagglecertificates/Debangan%20Ghosh%20-%20Intro%20to%20Machine%20Learning.png" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/kagglecertificates/Debangan%20Ghosh%20-%20Intro%20to%20Programming.png" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/kagglecertificates/Debangan%20Ghosh%20-%20Pandas.png" width="120" alt="Feb Badge">
+      </td>
+      <td align="center" valign="middle">
+          <img src="https://github.com/debanganghosh08/debanganghosh08/blob/main/kagglecertificates/Debangan%20Ghosh%20-%20Python.png" width="120" alt="Feb Badge">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
