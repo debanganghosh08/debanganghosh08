@@ -1,5 +1,5 @@
 <h1 align="center"> ＤＥＢＡＮＧＡＮ ＧＨＯＳＨ </h1>
-<h2 align="center"><b>Backend AI Engineer @Spark Labs @PlayTo | Associate Software Developer @VEmpower Venture | Google DeepMind Contributor</b></h2>
+<h2 align="center"><b>Backend AI Engineer @SparQ Labs @PlayTo | Associate Software Developer @VEmpower Venture | Google DeepMind Contributor</b></h2>
 
 <div align="center">
   <img src="Banner - Pro edit.png" alt="GitHub Banner" width="100%"/>
